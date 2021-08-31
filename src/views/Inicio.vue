@@ -19,6 +19,9 @@ section
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 11120000
               li.mb-3.banner-principal__datos__item
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total horas: 
+                p.banner-principal__datos__item__texto 48
+              li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 4 Semanas
               li.mb-3.banner-principal__datos__item
