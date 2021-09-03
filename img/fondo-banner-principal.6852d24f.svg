@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 674 320" width="674" height="320">
+	<title>Grupo 84067</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="613.604" y1="223.412" x2="99.51" y2="24.76">
+			<stop offset="0" stop-color="#7c37cc"  />
+			<stop offset="1" stop-color="#232ca0"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="Grupo 84067">
+		<path id="Trazado 104138" class="shp0" d="M0.62 0.5L673.17 0.5L673.17 319.59L0.62 319.59L0.62 0.5Z" />
+	</g>
+</svg>
