@@ -63,8 +63,7 @@ section
       span.h4 4. Perfil de<br>ingreso
 
     ul(style="list-style:disc;padding:revert;")
-      li Carta de presentación expedida por la comunidad. 
-      li Cumplir con el trámite de selección definido por el Centro.
+      li Cumplir con el tramite de selección definido por el Centro, se requiere que el aprendiz AVA tenga dominio de las condiciones básicas relacionadas con el manejo de herramientas informáticas y de comunicación, correo electrónico, chats internet, navegadores y otros sistemas y herramientas tecnológicas necesarias para la formación virtual.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
